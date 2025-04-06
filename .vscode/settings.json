@@ -1,0 +1,8 @@
+{
+    "makefile.configureOnOpen": true
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true
+}

@@ -35,7 +35,7 @@ watch-app:
 watch-templ:
 	templ generate \
 	--watch \
-	--proxy "http://localhost:8080" \
+	--proxy "http://localhost:8888" \
 	--open-browser=false
 
 .PHONY: watch-css
